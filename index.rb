@@ -1,7 +1,7 @@
 require 'discordrb'
 require './handlers/messages'
 
-bot = Discordrb::Bot.new token: 'OTIzNTQxNDcwMzc0NDA4MTky.YcRhBQ.Gh2PDp6-fLdYes6FSLp27lmJRcU'
+bot = Discordrb::Bot.new token: 'YOUR_TOKEN_HERE'
 
 no_words = ['bitcoin','btc','nft','NFT','BTC','crypto','CRYPTO']
 
